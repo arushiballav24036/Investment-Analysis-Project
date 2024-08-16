@@ -13,12 +13,12 @@
 ## Objective
  Understanding and summarizing key statistics in the dataset.
 ## Key Insights:-
-The average age of individuals in the dataset is around 28 years, with a majority being male investors (62.5%).
+➤ The average age of individuals in the dataset is around 28 years, with a majority being male investors (62.5%).
 
 ➤ Gold and Debentures are the most popular investment choices, followed closely by Government Bonds.
 
 ➤ Retirement planning is the primary savings objective for most individuals, followed by health care and education.
 
-➤ The investment distribution shows that over 20% of individuals prefer Gold and Debentures, indicating a preference for relatively safer investment options.
+➤ The investment distribution shows that over 20% of individuals prefer Gold and Debentures, indicating a preference for relatively safer investment options compairing to others.
 
 ➤ Overall, the data highlights a young investor demographic with a focus on long-term financial security.
