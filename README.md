@@ -24,3 +24,14 @@
 ➤ Overall, the data highlights a young investor demographic with a focus on long-term financial security.
 
 ![task1](https://github.com/user-attachments/assets/0d01bf08-de3c-40bb-a02a-6cf3e7d4d0d4)
+
+# Task2: Gender-based Analysis
+## Objective
+ Analyzing and visualizing gender based differences in investment preferences.
+## Key Insights:-
+![task2](https://github.com/user-attachments/assets/2f529008-8ca2-4473-a20d-8a0f10ce0f50)
+
+
+
+
+![task3](https://github.com/user-attachments/assets/882ff290-f524-40dd-87ac-329d24d318d5)
