@@ -22,3 +22,4 @@
 ➤ The investment distribution shows that over 20% of individuals prefer Gold and Debentures, indicating a preference for relatively safer investment options compairing to others.
 
 ➤ Overall, the data highlights a young investor demographic with a focus on long-term financial security.
+![Uploading task1.jpg…]()
