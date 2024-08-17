@@ -29,6 +29,11 @@
 ## Objective
  Analyzing and visualizing gender based differences in investment preferences.
 ## Key Insights:-
+➤ The visualizations revealed significant trends, such as a higher preference for equity investments among male investors, while female investors showed a stronger inclination towards mutual funds and government bonds.
+➤ Noted that males have a higher overall investment count, but females showed more balanced investment distribution across different avenues.
+
+
+
 ![task2](https://github.com/user-attachments/assets/2f529008-8ca2-4473-a20d-8a0f10ce0f50)
 
 
