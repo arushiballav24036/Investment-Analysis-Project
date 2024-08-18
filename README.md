@@ -22,7 +22,7 @@
 ➤ The investment distribution shows that over 20% of individuals prefer Gold and Debentures, indicating a preference for relatively safer investment options compairing to others.
 
 ➤ Overall, the data highlights a young investor demographic with a focus on long-term financial security.
-
+Here is the snapshot of task 1:
 ![task1](https://github.com/user-attachments/assets/0d01bf08-de3c-40bb-a02a-6cf3e7d4d0d4)
 
 # Task2: Gender-based Analysis
@@ -32,11 +32,12 @@
 ➤ The visualizations revealed significant trends, such as a higher preference for equity investments among male investors, while female investors showed a stronger inclination towards mutual funds and government bonds.
 ➤ Noted that males have a higher overall investment count, but females showed more balanced investment distribution across different avenues.
 
-
-
+Here is the snapshot of task 2:
 ![task2](https://github.com/user-attachments/assets/2f529008-8ca2-4473-a20d-8a0f10ce0f50)
 
-
-
-
+# Task3: Obejctive Analysis
+## Objective
+   Analyzing the relationship between savings objectives and investment choices.
+## Key Insights:-
+Here is the snapshot of task 3
 ![task3](https://github.com/user-attachments/assets/882ff290-f524-40dd-87ac-329d24d318d5)
