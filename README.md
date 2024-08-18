@@ -35,7 +35,7 @@ Here is the snapshot of task 1:
 Here is the snapshot of task 2:
 ![task2](https://github.com/user-attachments/assets/2f529008-8ca2-4473-a20d-8a0f10ce0f50)
 
-# Task3: Obejctive Analysis
+# Task3: Objective Analysis
 ## Objective
    Analyzing the relationship between savings objectives and investment choices.
 ## Key Insights:-
@@ -47,3 +47,17 @@ Here is the snapshot of task 2:
    Inclination towards secure investments like public provident funds, while still considering equities for higher returns.
 Here is the snapshot of task 3
 ![task3](https://github.com/user-attachments/assets/882ff290-f524-40dd-87ac-329d24d318d5)
+
+# Task4: Investment Duration and Frequency
+## Objective
+Analyzing investment durations and monitoring frequencies.
+## Key Insights:-
+Here is the snapshot of task 4
+![task4](https://github.com/user-attachments/assets/bd6193ab-b4ca-4dfb-96fe-c4d2fb40aae8)
+# Task5: Reasons for Investment
+## Objective
+Analyzing and visualizing the reasons for investment.
+## Key Insights:-
+Here is the snapshot of task 5
+![task5](https://github.com/user-attachments/assets/b2cdc3fa-b3ca-439e-a2bf-78c6d52947e4)
+
