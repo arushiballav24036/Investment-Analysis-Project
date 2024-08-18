@@ -39,5 +39,11 @@ Here is the snapshot of task 2:
 ## Objective
    Analyzing the relationship between savings objectives and investment choices.
 ## Key Insights:-
+➤ Capital Appreciation:
+   Investors looking for capital appreciation prefer equities, showing a strong correlation between high-risk, high-reward investments.
+➤ Growth:
+   There is a balanced distribution among equities, fixed deposits, mutual funds, and public provident funds, with a slight preference for mutual funds, indicating a diversified approach for growth objectives.
+➤ Income:
+   Inclination towards secure investments like public provident funds, while still considering equities for higher returns.
 Here is the snapshot of task 3
 ![task3](https://github.com/user-attachments/assets/882ff290-f524-40dd-87ac-329d24d318d5)
