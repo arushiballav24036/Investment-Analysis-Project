@@ -29,8 +29,9 @@ Here is the snapshot of task 1:
 ## Objective
  Analyzing and visualizing gender based differences in investment preferences.
 ## Key Insights:-
-➤ The visualizations revealed significant trends, such as a higher preference for equity investments among male investors, while female investors showed a stronger inclination towards mutual funds and government bonds.
-➤ Noted that males have a higher overall investment count, but females showed more balanced investment distribution across different avenues.
+➤  The visualizations revealed significant trends, such as a higher preference for equity investments among male investors, while female investors showed a stronger inclination towards mutual funds and government bonds.
+
+➤  Noted that males have a higher overall investment count, but females showed more balanced investment distribution across different avenues.
 
 Here is the snapshot of task 2:
 ![task2](https://github.com/user-attachments/assets/2f529008-8ca2-4473-a20d-8a0f10ce0f50)
@@ -39,11 +40,13 @@ Here is the snapshot of task 2:
 ## Objective
    Analyzing the relationship between savings objectives and investment choices.
 ## Key Insights:-
-➤ Capital Appreciation:
+   ➤ Capital Appreciation:
    Investors looking for capital appreciation prefer equities, showing a strong correlation between high-risk, high-reward investments.
-➤ Growth:
+   
+   ➤ Growth:
    There is a balanced distribution among equities, fixed deposits, mutual funds, and public provident funds, with a slight preference for mutual funds, indicating a diversified approach for growth objectives.
-➤ Income:
+   
+   ➤ Income:
    Inclination towards secure investments like public provident funds, while still considering equities for higher returns.
 Here is the snapshot of task 3
 ![task3](https://github.com/user-attachments/assets/882ff290-f524-40dd-87ac-329d24d318d5)
@@ -54,8 +57,10 @@ Analyzing investment durations and monitoring frequencies.
 ## Key Insights:-
 ➤ Investment Avenue:
    The most popular investment choices made by investors is Mutual Funds(18) followed by Equity(10),Fixed Deposits(9),Provident Fund(3)
+   
 ➤ Investment Duration:
    Distribution of investments are shown using bar charts where 19 investors predominantly prefer 3-5 years for holding their investments, followed by 18 investors prefer 1-8 years.
+   
 ➤ Investment Monitoring Frequency:
    The majority of investors prefer to monitor their investments on monthly basis(29), whereas weekly(7) and daily (4) are less preferrred.This appears to be a common strategy for managing medium-term investments.
 Here is the snapshot of task 4
@@ -64,6 +69,19 @@ Here is the snapshot of task 4
 ## Objective
 Analyzing and visualizing the reasons for investment.
 ## Key Insights:-
+
+➤ Better Returns is the dominant reason for investment, indicating that investors are primarily motivated by high potential gains.
+
+➤ Fund Diversification is also a significant reason, suggesting that investors are interested in spreading their risks across various assets.
+
+➤ Tax Benefits is the least common reason, implying it is not a primary motivator for most investors in the dataset.
+
+➤ Investment Duration:
+   The majority of investments are held for 3-5 years. A significant portion also prefers a 1-3 year duration. Very few investors hold investments for less than 1 year or more than 5 years.
+   
+➤ Investment Monitoring Frequency:
+   Most investors prefer to monitor their investments monthly basis comparing to Weekly and daily monitoring, indicating a preference for regular but not overly frequent oversight.
+
 Here is the snapshot of task 5
 ![task5](https://github.com/user-attachments/assets/b2cdc3fa-b3ca-439e-a2bf-78c6d52947e4)
 
