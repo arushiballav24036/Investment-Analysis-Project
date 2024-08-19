@@ -52,6 +52,12 @@ Here is the snapshot of task 3
 ## Objective
 Analyzing investment durations and monitoring frequencies.
 ## Key Insights:-
+➤ Investment Avenue:
+   The most popular investment choices made by investors is Mutual Funds(18) followed by Equity(10),Fixed Deposits(9),Provident Fund(3)
+➤ Investment Duration:
+   Distribution of investments are shown using bar charts where 19 investors predominantly prefer 3-5 years for holding their investments, followed by 18 investors prefer 1-8 years.
+➤ Investment Monitoring Frequency:
+   The majority of investors prefer to monitor their investments on monthly basis(29), whereas weekly(7) and daily (4) are less preferrred.This appears to be a common strategy for managing medium-term investments.
 Here is the snapshot of task 4
 ![task4](https://github.com/user-attachments/assets/bd6193ab-b4ca-4dfb-96fe-c4d2fb40aae8)
 # Task5: Reasons for Investment
