@@ -78,10 +78,14 @@ Analyzing and visualizing the reasons for investment.
 
 ➤ Investment Duration:
    The majority of investments are held for 3-5 years. A significant portion also prefers a 1-3 year duration. Very few investors hold investments for less than 1 year or more than 5 years.
-   
 ➤ Investment Monitoring Frequency:
    Most investors prefer to monitor their investments monthly basis comparing to Weekly and daily monitoring, indicating a preference for regular but not overly frequent oversight.
 
 Here is the snapshot of task 5
 ![task5](https://github.com/user-attachments/assets/b2cdc3fa-b3ca-439e-a2bf-78c6d52947e4)
+
+
+![task6](https://github.com/user-attachments/assets/96c0312f-7ca4-4cc5-8bc0-e09d340f6236)
+![dashboard1](https://github.com/user-attachments/assets/4bcdf354-540e-4ea1-a749-01ec208b8d6a)
+![dashboard2](https://github.com/user-attachments/assets/67ee657e-264d-4270-b5dc-3305546e1ed6)
 
