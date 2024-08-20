@@ -84,8 +84,39 @@ Analyzing and visualizing the reasons for investment.
 Here is the snapshot of task 5
 ![task5](https://github.com/user-attachments/assets/b2cdc3fa-b3ca-439e-a2bf-78c6d52947e4)
 
+# Task5: Source of Information
+## Objective
+Analyzing the sources from which individuals gather investment information.
+## Key Insights:-
+### Avenue by Source
+➤ Financial Consultants:
+  Financial consultants are the leading source of information, with 16 mentions. This underscores the importance of professional advice in investment decisions.
 
+➤ Newspapers and Magazines:
+  Newspapers and Magazines is the second most common source, with 14 mentions.This highlights that despite the rise of digital media, traditional sources still play a significant role in providing investment 
+  information.
+
+➤ Television:
+ Television comes in third, with 6 mentions. This suggests that broadcast media is also a key player in influencing investment decisions, though less so than print media and financial consultants.
+
+➤ Internet:
+ Surprisingly, the internet is the least mentioned source, with only 4 mentions.  This could indicate either a lesser reliance on online sources or a preference for more trusted, traditional forms of information.
+### Source by Avenue
+➤ Mutual Funds:
+ The most common source of information for mutual funds is financial consultants, with 18 mentions.  This indicates that investors heavily rely on professional advice when it comes to mutual funds.
+
+➤ Equity:
+Equity investments also see a significant reliance on financial consultants, with 10 mentions.  This shows a trend where professional advice is sought for high-risk investments.
+
+➤ Fixed Deposits:
+Information for fixed deposits is primarily gathered from financial consultants (9 mentions).  This suggests that even for relatively safer investments, professional advice is preferred.
+
+➤ Public Provident Fund:
+ The least mentioned source, with only 3 mentions, indicating lower reliance or interest in this avenue among the sampled investors.
+ Here is the snapshot of task 6
 ![task6](https://github.com/user-attachments/assets/96c0312f-7ca4-4cc5-8bc0-e09d340f6236)
+
+
 ![dashboard1](https://github.com/user-attachments/assets/4bcdf354-540e-4ea1-a749-01ec208b8d6a)
 ![dashboard2](https://github.com/user-attachments/assets/67ee657e-264d-4270-b5dc-3305546e1ed6)
 
