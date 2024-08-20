@@ -84,7 +84,7 @@ Analyzing and visualizing the reasons for investment.
 Here is the snapshot of task 5
 ![task5](https://github.com/user-attachments/assets/b2cdc3fa-b3ca-439e-a2bf-78c6d52947e4)
 
-# Task5: Source of Information
+# Task6: Source of Information
 ## Objective
 Analyzing the sources from which individuals gather investment information.
 ## Key Insights:-
@@ -115,6 +115,41 @@ Information for fixed deposits is primarily gathered from financial consultants 
  The least mentioned source, with only 3 mentions, indicating lower reliance or interest in this avenue among the sampled investors.
  Here is the snapshot of task 6
 ![task6](https://github.com/user-attachments/assets/96c0312f-7ca4-4cc5-8bc0-e09d340f6236)
+
+# Task7: Combine Insights into a Dashboard
+## Objective
+Creating a comprehensive dashboard incorporating all insights.
+## Key Insights for the First Dashboard:-
+ ➤ 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐀𝐠𝐞 : The average age of investors is 27.80 years.
+ 
+ ➤ 𝐆𝐞𝐧𝐝𝐞𝐫 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 : 62.5% of investors are male and 37.5% are female.
+ 
+ ➤ 𝐈𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐚𝐥𝐬 𝐛𝐲 𝐒𝐚𝐯𝐢𝐧𝐠 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬 : Most investors (60%) save for retirement plans, followed by 32.5% for healthcare, and 7.5% for education.
+ 
+ ➤ 𝐍𝐨. 𝐨𝐟 𝐌𝐚𝐥𝐞 & 𝐅𝐞𝐦𝐚𝐥𝐞 𝐈𝐧𝐯𝐞𝐬𝐭𝐨𝐫𝐬 𝐢𝐧 𝐞𝐚𝐜𝐡 𝐢𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐂𝐚𝐭𝐚𝐠𝐨𝐫𝐲 : Male investors and female investors are evenly distributed across equity, mutual funds, and government bonds.
+ 
+ ➤ 𝐑𝐞𝐚𝐬𝐨𝐧 𝐌𝐮𝐭𝐮𝐚𝐥 𝐛𝐲 𝐝𝐮𝐫𝐚𝐭𝐢𝐨𝐧 : The majority of mutual fund investments are held for 3-5 years or 1-3 years.
+ 
+ ➤ 𝐑𝐞𝐚𝐬𝐨𝐧 𝐌𝐮𝐭𝐮𝐚𝐥 𝐛𝐲 𝐈𝐧𝐯𝐞𝐬𝐭 𝐌𝐨𝐧𝐢𝐭𝐨𝐫 : Most investors monitor their mutual fund investments monthly (29), followed by weekly (7) and daily (4).
+ 
+ ➤ 𝐆𝐞𝐧𝐝𝐞𝐫- 𝐁𝐚𝐬𝐞𝐝 𝐏𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 𝐢𝐧 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐏𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬 : Both male and female investors prefer government bonds the most, compared to equity markets and mutual funds.
+ 
+## Key Insights for the Second Dashboard:-
+ ➤ 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐀𝐯𝐞𝐧𝐮𝐞𝐬 𝐏𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐭𝐢𝐨𝐧 : 37 individuals are engaged in investment avenues, while 3 are not.
+ 
+ ➤ 𝐀𝐯𝐞𝐧𝐮𝐞 𝐛𝐲 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧 : Investments are primarily held for 3-5 years (19) and 1-3 years (18).
+ 
+ ➤ 𝐂𝐨𝐮𝐧𝐭 𝐨𝐟 𝐆𝐞𝐧𝐝𝐞𝐫 𝐛𝐲 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐀𝐯𝐞𝐧𝐮𝐞𝐬 : 92.5% of respondents are engaged in investment avenues, with a small portion (7.5%) not participating.
+ 
+➤ 𝐀𝐯𝐞𝐧𝐮𝐞𝐬 𝐛𝐲 𝐒𝐨𝐮𝐫𝐜𝐞 : Financial consultants (16) and newspapers/magazines (14) are the primary sources of investment information.
+
+➤𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐀𝐯𝐞𝐧𝐮𝐞𝐬 𝐏𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞: Gold (239) , debentures (230) are the top preferred investment avenues.
+
+➤ 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐀𝐯𝐞𝐧𝐮𝐞𝐬 𝐛𝐲 𝐒𝐚𝐯𝐢𝐧𝐠𝐬 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬 : For capital appreciation, mutual funds(13) and equity (6) are preferred.
+
+➤ 𝐀𝐯𝐞𝐧𝐮𝐞 𝐛𝐲 𝐈𝐧𝐯𝐞𝐬𝐭 𝐌𝐨𝐧𝐢𝐭𝐨𝐫 : Most investors monitor their investments monthly (29).
+
+ ➤ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐛𝐲 𝐀𝐯𝐞𝐧𝐮𝐞𝐬 : Mutual funds are the most common investment avenue (18), followed by equity (10) , fixed deposits (9) and public provident fund (3).
 
 
 ![dashboard1](https://github.com/user-attachments/assets/4bcdf354-540e-4ea1-a749-01ec208b8d6a)
